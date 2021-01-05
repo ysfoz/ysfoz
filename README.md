@@ -13,13 +13,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysfoz" alt="ysfoz" /> </p>
 
 
-<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="40%" align="right">
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 
+<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="30%" height="30%" align="right">
 
 
 <div style=' float:right;margin:20px' >

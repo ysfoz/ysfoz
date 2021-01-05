@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
  
- <img src="./python.gif" alt="react-native" width="30%" height="30%" align="right">
+ <img src="./giphy.gif" alt="python" width="30%" height="30%" align="right">
  
  <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
  </br>

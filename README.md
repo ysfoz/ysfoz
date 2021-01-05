@@ -21,12 +21,12 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
  
- <img src="./giphy.gif" alt="python" width="30%" height="30%" align="right">
+ <img src="./giphy.gif" alt="python" width="20%" height="20%" align="right">
  
  <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
  </br>
  </br>
-<img src="https://github-readme-stats.vercel.app/api?username=ysfoz&show_icons=true&theme=tokyonight" align='left' width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ysfoz&show_icons=true&theme=tokyonight" align='left' width="40%">
 
 
 

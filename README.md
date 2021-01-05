@@ -13,9 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysfoz" alt="ysfoz" /> </p>
 
 
-
-
-<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="40%" height="40%" align="right">
+<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="40%" align="right">
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
@@ -36,28 +34,3 @@
 
 
 
-
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-
-
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

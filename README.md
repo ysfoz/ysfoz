@@ -3,7 +3,7 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysfoz" alt="ysfoz" /> </p>
 
-<a href="https://www.linkedin.com/in/yusuf-öztürk-23617b1b7/" target="_blank">
+<a href="https://www.linkedin.com/in/ysf-öztürk/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/yusuf-öztürk-23617b1b7/">
 </a>
 

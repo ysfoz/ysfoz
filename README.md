@@ -17,6 +17,8 @@
 -  I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
 
  <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="30%" height="30%" align="right">
+ 
+ <img src="https://giphy.com/embed/kCVIL0CLNWv2E" width="30%" height="30%">
  </br>
  </br>
 <img src="https://github-readme-stats.vercel.app/api?username=ysfoz&show_icons=true&theme=tokyonight" align='left' width="50%">
